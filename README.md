@@ -24,3 +24,20 @@ Transfer learning aims to enable deep-learning-based thermal error models to att
 or machine types using only a small amount of new data, thereby reducing model adaptation cost. Physics-based embedding 
 primarily involves incorporating finite element analysis (FEA) or other mathematical representations to supply physical 
 features or constraints to data-driven models.
+
+## Repository structure
+### C#
+#### Compensation
+##### MTC202501
+##### MtcLibrary1
+
+### Data
+
+### Figure
+#### cutting experiments
+#### data collector
+#### Tem & Dis measurement point
+#### Thermal Error Compensation Terminal
+
+### Python
+#### LSTM_RES_CNN
