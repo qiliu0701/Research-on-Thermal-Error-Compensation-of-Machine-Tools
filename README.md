@@ -27,17 +27,25 @@ features or constraints to data-driven models.
 
 ## Repository structure
 ### C#
-#### Compensation
+#### Compensation 
 ##### MTC202501
+The main program for the thermal error compensation of the machine tool used for edge deployment.
 ##### MtcLibrary1
+The function library for the thermal error compensation of the machine tool used for edge deployment.
 
 ### Data
+Temperature and thermal displacement data, which are used for importing into MySQL.
 
 ### Figure
 #### cutting experiments
+Figures related to cutting experiments and precision measurements
 #### data collector
+The data collector developed in this project.
 #### Tem & Dis measurement point
+Figures of the temperature and displacement measurement points show the installation method and location of the sensors.
 #### Thermal Error Compensation Terminal
+The TE compensation Terminal developed in this project.
 
 ### Python
 #### LSTM_RES_CNN
+The architecture and parameters of the Long Short-Term Memory Residual Convolutional Neural Network (LSTM_RES_CNN).
