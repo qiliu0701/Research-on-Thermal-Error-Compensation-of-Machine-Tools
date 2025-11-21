@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\MTC\MtcLibrary1\bin\Release\net6.0\MtcLibrary1.deps.json
+C:\Users\Admin\Desktop\MTC\MtcLibrary1\bin\Release\net6.0\MtcLibrary1.dll
+C:\Users\Admin\Desktop\MTC\MtcLibrary1\bin\Release\net6.0\MtcLibrary1.pdb
+C:\Users\Admin\Desktop\MTC\MtcLibrary1\bin\Release\net6.0\EZSockets.dll
+C:\Users\Admin\Desktop\MTC\MtcLibrary1\obj\Release\net6.0\MtcLibrary1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MTC\MtcLibrary1\obj\Release\net6.0\Interop.EZNCAUTLib.dll
+C:\Users\Admin\Desktop\MTC\MtcLibrary1\obj\Release\net6.0\MtcLibrary1.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\MTC\MtcLibrary1\obj\Release\net6.0\MtcLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MTC\MtcLibrary1\obj\Release\net6.0\MtcLibrary1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MTC\MtcLibrary1\obj\Release\net6.0\MtcLibrary1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MTC\MtcLibrary1\obj\Release\net6.0\MtcLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MTC\MtcLibrary1\obj\Release\net6.0\MtcLibra.833AD911.Up2Date
+C:\Users\Admin\Desktop\MTC\MtcLibrary1\obj\Release\net6.0\MtcLibrary1.dll
+C:\Users\Admin\Desktop\MTC\MtcLibrary1\obj\Release\net6.0\refint\MtcLibrary1.dll
+C:\Users\Admin\Desktop\MTC\MtcLibrary1\obj\Release\net6.0\MtcLibrary1.pdb
+C:\Users\Admin\Desktop\MTC\MtcLibrary1\obj\Release\net6.0\ref\MtcLibrary1.dll

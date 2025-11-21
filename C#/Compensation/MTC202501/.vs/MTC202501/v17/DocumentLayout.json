@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MTC\\MTC202501\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9FFF2F-336E-4828-B53C-2C1C6A151DDA}|MTC202501.csproj|c:\\users\\admin\\desktop\\mtc\\mtc202501\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9FFF2F-336E-4828-B53C-2C1C6A151DDA}|MTC202501.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1159FFB0-10D8-4DAA-8555-CE112FECF370}|..\\MtcLibrary1\\MtcLibrary1.csproj|c:\\users\\admin\\desktop\\mtc\\mtclibrary1\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MTC\\MTC202501\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MTC\\MTC202501\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T08:59:49.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MTC\\MtcLibrary1\\Class.cs",
+              "RelativeDocumentMoniker": "..\\MtcLibrary1\\Class.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\MTC\\MtcLibrary1\\Class.cs",
+              "RelativeToolTip": "..\\MtcLibrary1\\Class.cs",
+              "ViewState": "AQIAAFoAAABAMjMzMzMnwG0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T08:59:46.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
