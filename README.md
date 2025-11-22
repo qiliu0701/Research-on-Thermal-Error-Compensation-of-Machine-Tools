@@ -27,6 +27,9 @@ features or constraints to data-driven models.
 
 ## Repository structure
 ### C#
+1. The 3 .ddl files (EZNcAut312.dll, EZSockets.dll, Interop.EZNCAUTLib.dll) under the MtcLibrary1 directory are necessary. Please add them as project dependencies.
+2. Install the following packages in the NuGet tool of Visual Studio 2022.
+![img.png](img.png)
 #### Compensation 
 ##### MTC202501
 The main program for the thermal error compensation of the machine tool used for edge deployment.
